@@ -1,1 +1,157 @@
-<feed xmlns="http://www.w3.org/2005/Atom"> <id>https://kyttycrazy.github.io/kyttycrazy.github.io/</id><title>Kytty Crazy</title><subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle> <updated>2024-04-13T19:06:49-07:00</updated> <author> <name>kyttycrazy</name> <uri>https://kyttycrazy.github.io/kyttycrazy.github.io/</uri> </author><link rel="self" type="application/atom+xml" href="https://kyttycrazy.github.io/kyttycrazy.github.io/feed.xml"/><link rel="alternate" type="text/html" hreflang="es" href="https://kyttycrazy.github.io/kyttycrazy.github.io/"/> <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator> <rights> © 2024 kyttycrazy </rights> <icon>/kyttycrazy.github.io/assets/img/favicons/favicon.ico</icon> <logo>/kyttycrazy.github.io/assets/img/favicons/favicon-96x96.png</logo> <entry><title>Prueba Formato</title><link href="https://kyttycrazy.github.io/kyttycrazy.github.io/posts/prueba-formato/" rel="alternate" type="text/html" title="Prueba Formato" /><published>2024-04-12T20:11:00-07:00</published> <updated>2024-04-12T20:11:00-07:00</updated> <id>https://kyttycrazy.github.io/kyttycrazy.github.io/posts/prueba-formato/</id> <content src="https://kyttycrazy.github.io/kyttycrazy.github.io/posts/prueba-formato/" /> <author> <name>kytty</name> </author> <category term="Demo" /> <summary>Aquí vamos a ver como se los formatos pre hechos.</summary> </entry> <entry><title>Maquina Remote</title><link href="https://kyttycrazy.github.io/kyttycrazy.github.io/posts/maquina-remote/" rel="alternate" type="text/html" title="Maquina Remote" /><published>2024-04-11T21:00:00-07:00</published> <updated>2024-04-11T21:00:00-07:00</updated> <id>https://kyttycrazy.github.io/kyttycrazy.github.io/posts/maquina-remote/</id> <content src="https://kyttycrazy.github.io/kyttycrazy.github.io/posts/maquina-remote/" /> <author> <name>kytty</name> </author> <category term="Hacking" /> <category term="CTF" /> <summary>Prueva de Penetracion tipo Test Web</summary> </entry> </feed>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/kyttycrazy.github.io/</id>
+  <title>Kytty Crazy</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-04-17T20:37:34-07:00</updated>
+  <author>
+    <name>kyttycrazy</name>
+    <uri>http://localhost:4000/kyttycrazy.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/kyttycrazy.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es"
+    href="http://localhost:4000/kyttycrazy.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 kyttycrazy </rights>
+  <icon>/kyttycrazy.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>/kyttycrazy.github.io/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Prueba Formato</title>
+    <link href="http://localhost:4000/kyttycrazy.github.io/posts/prueba-formato/" rel="alternate" type="text/html" title="Prueba Formato" />
+    <published>2024-04-12T20:11:00-07:00</published>
+  
+    <updated>2024-04-12T20:11:00-07:00</updated>
+  
+    <id>http://localhost:4000/kyttycrazy.github.io/posts/prueba-formato/</id>
+    <content src="http://localhost:4000/kyttycrazy.github.io/posts/prueba-formato/" />
+    <author>
+      <name>kytty</name>
+    </author>
+
+  
+    
+    <category term="Demo" />
+    
+  
+
+  <summary>Aquí vamos a ver como se los formatos pre hechos.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Busqueda Writeup - HackTheBox</title>
+    <link href="http://localhost:4000/kyttycrazy.github.io/posts/busqueda-writeup-htb/" rel="alternate" type="text/html" title="Busqueda Writeup - HackTheBox" />
+    <published>2023-04-18T00:00:00-07:00</published>
+  
+    <updated>2023-04-18T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/kyttycrazy.github.io/posts/busqueda-writeup-htb/</id>
+    <content src="http://localhost:4000/kyttycrazy.github.io/posts/busqueda-writeup-htb/" />
+    <author>
+      <name>kyttycrazy</name>
+    </author>
+
+  
+    
+    <category term="Writeups" />
+    
+    <category term="HTB" />
+    
+  
+
+  <summary>En este writeup, nos adentraremos en la máquina Busqueda de HackTheBox, la cual tiene un nivel de dificultad fácil según la plataforma. Esta máquina Linux será el escenario donde llevaremos a cabo una enumeración web y localizaremos una página que hace uso de una biblioteca de Python llamada Searchor, la cual es vulnerable a la ejecución de código arbitrario a través del método eval(). Esta vul...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>RootMe Writeup - TryHackMe</title>
+    <link href="http://localhost:4000/kyttycrazy.github.io/posts/rootme-writeup-thm/" rel="alternate" type="text/html" title="RootMe Writeup - TryHackMe" />
+    <published>2023-04-03T00:00:00-07:00</published>
+  
+    <updated>2023-04-03T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/kyttycrazy.github.io/posts/rootme-writeup-thm/</id>
+    <content src="http://localhost:4000/kyttycrazy.github.io/posts/rootme-writeup-thm/" />
+    <author>
+      <name>kyttycrazy</name>
+    </author>
+
+  
+    
+    <category term="Writeups" />
+    
+    <category term="THM" />
+    
+  
+
+  <summary>En este writeup vamos a explorar la sala RootMe de TryHackMe, una de las salas más fáciles en la plataforma. En esta sala, aprenderemos a realizar el fuzzing de directorios para encontrar un panel que nos permitirá subir archivos y un directorio de listado donde se almacenan los archivos subidos. También descubriremos cómo eludir un filtro simple para subir archivos PHP y obtener acceso a la má...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Mr Robot Writeup - TryHackMe</title>
+    <link href="http://localhost:4000/kyttycrazy.github.io/posts/mrrobot-writeup-thm/" rel="alternate" type="text/html" title="Mr Robot Writeup - TryHackMe" />
+    <published>2023-04-03T00:00:00-07:00</published>
+  
+    <updated>2023-04-03T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/kyttycrazy.github.io/posts/mrrobot-writeup-thm/</id>
+    <content src="http://localhost:4000/kyttycrazy.github.io/posts/mrrobot-writeup-thm/" />
+    <author>
+      <name>kyttycrazy</name>
+    </author>
+
+  
+    
+    <category term="Writeups" />
+    
+    <category term="THM" />
+    
+  
+
+  <summary>En este writeup, exploraremos la sala Mr Robot CTF de TryHackMe, de dificultad media según la plataforma. A través de esta sala temática de Mr Robot, aprenderemos a explotar un servidor web que utiliza el CMS WordPress y escalaremos privilegios aprovechando una versión obsoleta de nmap. El objetivo es encontrar tres llaves ocultas en la máquina.
+
+Reconocimiento activo
+
+
+
+Como primer paso, lanza...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Flight Writeup - HackTheBox</title>
+    <link href="http://localhost:4000/kyttycrazy.github.io/posts/flight-writeup-htb/" rel="alternate" type="text/html" title="Flight Writeup - HackTheBox" />
+    <published>2023-01-12T00:00:00-07:00</published>
+  
+    <updated>2023-01-12T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/kyttycrazy.github.io/posts/flight-writeup-htb/</id>
+    <content src="http://localhost:4000/kyttycrazy.github.io/posts/flight-writeup-htb/" />
+    <author>
+      <name>kyttycrazy</name>
+    </author>
+
+  
+    
+    <category term="Writeups" />
+    
+    <category term="HTB" />
+    
+  
+
+  <summary>En este writeup vamos a explorar la máquina Flight de HackTheBox, considerada de dificultad difícil en la plataforma. En esta máquina, realizaremos enumeración web y SMB capturando algunos hashes NTLv2, para el acceso al servidor, explotaremos un archivo desktop.ini para capturar un hash de un usario con permisos de escrita en un recurso compartido que nos permite cargar una webshell, realizare...</summary>
+
+  </entry>
+
+</feed>
+
+
